@@ -26,3 +26,4 @@ deploy:
   app: devopslab-joseaureliano
   on:
       branch: main
+
