@@ -3,7 +3,7 @@ language: python
 
 #Versão do sistema operacional
 os: linux
-  dist: xenial
+dist: xenial
 
 # Versão que a aplicação suporta.
 python:
